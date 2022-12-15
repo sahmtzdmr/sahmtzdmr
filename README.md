@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [OXXO](https://play.google.com/store/apps/details?id=com.sorsware.ecommerce&hl=tr&gl=US)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sahmtzdmr](https://github.com/sahmtzdmr)
-
 - 📫 How to reach me **sadikahmetozdemir@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sadık-ahmet-özdemir-142252169/](https://www.linkedin.com/in/sadık-ahmet-özdemir-142252169/)
