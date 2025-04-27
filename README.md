@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahmtzdmr&label=Profile%20views&color=0e75b6&style=flat" alt="sahmtzdmr" /> </p>
 
-- 🔭 I’m currently working on [OXXO](https://play.google.com/store/apps/details?id=com.sorsware.ecommerce&hl=tr&gl=US),[tarlam cepte](https://play.google.com/store/apps/details?id=com.turktraktor.tarlamcepte&hl=tr&gl=US&pli=1)
+- 🔭 I’m currently working on [tarlam cepte](https://play.google.com/store/apps/details?id=com.turktraktor.tarlamcepte&hl=tr&gl=US&pli=1)
 
 - 📫 How to reach me **sadikahmetozdemir@outlook.com**
 
